@@ -1,0 +1,9 @@
+node_modules/
+uploads/
+.env
+dist/
+build/
+.DS_Store
+*.log
+setup_instructions.txt
+
